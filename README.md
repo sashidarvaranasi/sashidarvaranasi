@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sashidarvaranasi
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning C/C++/Pyhton
+- 🌱 I’m currently learning C/C++/Python
 - 💞️ I’m looking to collaborate on beginner level projects
 - 📫 How to reach me via email
 
